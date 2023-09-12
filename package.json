@@ -1,0 +1,15 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "curso de Ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Santiago Arango Benjumea <santiarango90@gmail.com>",
+  "license": "ISC"
+}
