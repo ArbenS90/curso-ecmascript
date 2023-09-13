@@ -3,8 +3,7 @@ function newUser(name,age,country){
   var name = name || 'Don Ovidio';
   var age = age || 54;
   var country = country || 'Colombiano';
-  console.log(name,age,country);
-  
+  console.log(name,age,country);  
 } 
 newUser(); 
 newUser('argemiro',87,'Mexicano');
